@@ -1,0 +1,30 @@
+.t1{
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 16px;
+}
+h1{
+   margin: 0px 0px 0px 225px;
+   font-size: 30px; 
+}
+div{
+    background-color: #FF0000;
+    width: 230px;
+    height: 100px;
+   margin: 60px 0px 0px 35px;
+   display: inline-block;
+   font-size: 26px;
+   color: white;
+   text-align: center;
+   padding-top: 90px;
+   padding-bottom: 10px;
+}
+.dv2{
+    margin-left: 70px;
+}
+.t2{
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 17px;
+    margin-top: 120px;
+}
